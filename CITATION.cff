@@ -1,0 +1,25 @@
+﻿cff-version: 1.2.0
+title: "Dual-Teacher Distillation with Wav2Vec2"
+message: "If you use this project, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Gurjar"
+    given-names: "Lucky"
+  - family-names: "Chandel"
+    given-names: "Aryan Singh"
+  - family-names: "B"
+    given-names: "Nikhil"
+  - family-names: "Bhatt"
+    given-names: "Tanuja"
+repository-code: "https://github.com/shiroonigami23-ui/11-785-dual-teacher-distillation"
+url: "https://github.com/shiroonigami23-ui/11-785-dual-teacher-distillation"
+license: MIT
+version: 1.0.0
+date-released: 2026-04-23
+keywords:
+  - speech-processing
+  - speaker-verification
+  - deepfake-detection
+  - knowledge-distillation
+  - wav2vec2
+  - pytorch

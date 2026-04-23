@@ -1,5 +1,10 @@
 ﻿# Dual-Teacher Distillation with Wav2Vec2
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/shiroonigami23-ui/11-785-dual-teacher-distillation)
+![Repo Size](https://img.shields.io/github/repo-size/shiroonigami23-ui/11-785-dual-teacher-distillation)
+![Git LFS](https://img.shields.io/badge/Git%20LFS-enabled-blue)
+
 A multi-task speech representation project that distills a single `wav2vec2-base` student from two frozen teachers:
 - `ReDimNet` for speaker verification (SV)
 - `ASSIST` for deepfake / anti-spoofing detection (DF)
@@ -49,6 +54,9 @@ Course: 11-785
 If you are a project member, please use your own GitHub account and open pull requests from your own branch so individual contributions are visible on GitHub.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Citation
+If this project helps your work, please cite it using [CITATION.cff](CITATION.cff).
 
 ## License
 This repository is released under the MIT License. See [LICENSE](LICENSE).
