@@ -67,6 +67,7 @@ The repository is organized into the following main components:
 
 Mentor: Prof. Massa Baali  
 Course: 11-785
+Team: 45 
 
 ## Contribution Guide
 If you are a project member, please use your own GitHub account and open pull requests from your own branch so individual contributions are visible on GitHub.
